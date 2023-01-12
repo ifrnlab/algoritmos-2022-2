@@ -1,6 +1,17 @@
 # algoritmos-2022-2
 Sistema final para algoritmos 2022.2
 
+## Ferramentas de software
+
+No Windows:
+
+Abra um terminal do PowerShell e digite:
+
+- `winget install Git.Git`
+- `winget install Microsoft.VisualStudioCode`
+- `winget install GitHub.GitHubDesktop`
+- `winget install Python.Python.3.12`
+
 ## Ambiente virtual
 
 1. Abra o projeto no VS Code
